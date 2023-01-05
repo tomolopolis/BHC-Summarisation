@@ -35,11 +35,11 @@ to point to your huggingface
 
 # Acknowledgements
 Huggingface, Meta and Nviai libraries enable this research:
-- [Transformers](https://huggingface.co/docs/transformers/index)[Datasets] 
+- [Transformers](https://huggingface.co/docs/transformers/index)
 - [DataSets](https://huggingface.co/docs/datasets/index)
-- [Tokenizer](https://huggingface.co/docs/tokenizers/index)
-- [PyTorch]()
-- [Cuda]()
+- [Tokenizers](https://huggingface.co/docs/tokenizers/index)
+- [PyTorch](https://pytorch.org/)
+- [Cuda](https://developer.nvidia.com/cuda-toolkit)
 
 MedCAT: docs, downloads and more on our clinical NER+L framework [here](https://github.com/CogStack/MedCAT). 
 
