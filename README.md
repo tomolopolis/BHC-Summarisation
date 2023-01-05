@@ -34,16 +34,31 @@ to point to your huggingface
 
 
 # Acknowledgements
-Huggingface is building some awesome libraries that enable this research.
-- [Transformers](https://huggingface.co/docs/transformers/index)[Datasets](): 
+Huggingface, Meta and Nviai libraries enable this research:
+- [Transformers](https://huggingface.co/docs/transformers/index)[Datasets] 
 - [DataSets](https://huggingface.co/docs/datasets/index)
 - [Tokenizer](https://huggingface.co/docs/tokenizers/index)
-
-Also PyTorch[] and Nvidia's CUDA obv. :-) 
+- [PyTorch]()
+- [Cuda]()
 
 MedCAT: docs, downloads and more on our clinical NER+L framework [here](https://github.com/CogStack/MedCAT). 
 
+Get in touch with the CogStack team here: contact@cogstack.org
+
 # Citation
+@ARTICLE{Searle2022-bg,
+  title         = "Summarisation of Electronic Health Records with Clinical
+                   Concept Guidance",
+  author        = "Searle, Thomas and Ibrahim, Zina and Teo, James and Dobson,
+                   Richard",
+  month         =  nov,
+  year          =  2022,
+  archivePrefix = "arXiv",
+  eprint        = "2211.07126",
+  primaryClass  = "cs.CL",
+  arxivid       = "2211.07126"
+}
+
 
 
 
